@@ -1,0 +1,26 @@
+.ha{
+    background-color: black;
+    margin: 0px 400px;
+    color: blueviolet;
+}
+.img-a{
+    border-radius: 102px;
+    width: 500px;
+    height: 300px;
+}
+.img-b{
+    border-radius: 102px 72px;
+    width: 500px;
+    height: 300px;
+}
+.text{
+    background-color: aqua;
+}
+.text-b{
+    background-color: black;
+    color: white;
+}
+button{
+    background-color: red;
+    color: black;
+}
